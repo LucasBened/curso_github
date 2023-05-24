@@ -1,5 +1,15 @@
 const mostradorDeNomes = (nome) =>{
-  return nome;
+  return console.log(nome);
 }
 
-console.log("Lukas")
+
+mostradorDeNomes("Lukas")
+
+const mostrarSobrenome = (sobrenome) =>{
+  return console.log(sobrenome);
+}
+
+mostrarSobrenome("Silva")
+
+
+//Finalizado sistema dos nomes
