@@ -10,3 +10,9 @@ const login = (nome, email) =>{
 console.log(login("Lucas", "lussivbsilva@gmail.com"))
 
 // Boas vindas
+
+const senha = (senha) =>{
+  return senha;
+}
+
+//TESTANDO BRANCHS

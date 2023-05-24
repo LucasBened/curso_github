@@ -5,3 +5,6 @@ Julia
 Bernardo
 Maicon
 Michel
+Gabriel
+Mirian
+Tesla
